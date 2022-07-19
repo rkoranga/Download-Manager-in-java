@@ -20,6 +20,11 @@ $ javac ProgressRenderer.java
 $ javac DownloadTableModel.java  
 $ javac Download.java  
 $ javac DownloadManager.java  
+
+
+or 
+
+$ javac ProgressRenderer.java DownloadTableModel.java Download.java DownloadManager.java
 ```
 And finally to run - 
 ```
@@ -29,10 +34,3 @@ Screenshot
 ----------------  
 <img src="https://github.com/praharshjain/Download-Manager/blob/master/screenshot.png" width="1200">
   
-License
-----------------
-MIT
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpraharshjain%2FDownload-Manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpraharshjain%2FDownload-Manager?ref=badge_large)
